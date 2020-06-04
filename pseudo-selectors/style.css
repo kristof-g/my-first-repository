@@ -1,0 +1,14 @@
+.item {
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid grey;
+}
+
+.item:hover {
+    background: red;
+    cursor: pointer;
+}
+
+.list {
+    width: 400px;
+}
